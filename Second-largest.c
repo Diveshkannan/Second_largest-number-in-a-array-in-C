@@ -33,6 +33,7 @@ int main(void)
         }
     }
     printf("Second largest: %i\n",arr[second_largest]);
+    return 0;
 
 
 
